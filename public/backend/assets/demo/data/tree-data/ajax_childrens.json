@@ -1,0 +1,14 @@
+[
+  { 
+    "text" : "Child 1", 
+    "type": "file"
+  },
+  { 
+    "text" : "Child 2", 
+    "icon": "fas fa-file text-warning"
+  },
+  { 
+    "text" : "Child 3", 
+    "children" : ["One more"]
+  }
+]
